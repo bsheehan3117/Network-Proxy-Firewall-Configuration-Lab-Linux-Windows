@@ -1,5 +1,7 @@
 # Network-Proxy-Firewall-Configuration-Lab-Linux-Windows
 
+** Note This Project took place in VMs that have since been deleted for security **
+
 • Needed to securely route traffic from a Windows VM through a Linux host, controlling allowed protocols using a custom iptables-based firewall and verifying secure communication paths.
 
 • Configured static IP addresses on both systems and edited BIND and netplan settings for name resolution.
